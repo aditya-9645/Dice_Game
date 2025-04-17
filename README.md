@@ -1,12 +1,21 @@
-# React + Vite
+#Dice_Game 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dice_Game is a React-based dice game application that utilizes React concepts such as props, the useState hook, and styled-components for styling.
 
-Currently, two official plugins are available:
+## Project Structure & Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-React with Vite: The application is set up using Vite, providing a minimal and efficient development environment for React applications.​
 
-## Expanding the ESLint configuration
+-State Management with useState: The game leverages React's useState hook to manage the state of the dice, ensuring that the UI updates dynamically as the game progresses.​
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-Component-Based Architecture: The application is modular, with components likely representing individual dice and the game logic, promoting reusability and maintainability.​
+
+-Styled-Components for Styling: The use of styled-components allows for writing CSS-in-JS, enabling scoped and dynamic styling of components based on their state.​
+
+## 🧠 Advanced React Concepts
+
+-Props for Component Communication: Props are used to pass data and functions between components, facilitating communication and data flow within the application.​
+
+-Dynamic Styling: Styled-components enable dynamic styling of components based on their props or state, allowing for responsive and interactive UI elements.​
+
+-Efficient State Updates: By using useState, the application ensures that state updates are handled efficiently, triggering re-renders only when necessary.
