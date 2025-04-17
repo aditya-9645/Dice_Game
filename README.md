@@ -1,4 +1,4 @@
-#Dice_Game 
+# Dice_Game 
 
 Dice_Game is a React-based dice game application that utilizes React concepts such as props, the useState hook, and styled-components for styling.
 
