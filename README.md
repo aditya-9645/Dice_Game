@@ -3,8 +3,6 @@
 Dice_Game is a React-based dice game application that utilizes React concepts such as props, the useState hook, and styled-components for styling.
 
 
-
-
 ## 🔧 Project Structure & Features
 
 - React with Vite: The application is set up using Vite, providing a minimal and efficient development environment for React applications.​
